@@ -1,0 +1,8 @@
+/* css (only fonts */
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/Nunito-VariableFont_wght.ttf);
+}
+.header-top .text-header-top div{
+    font-family: Nunito;
+}
